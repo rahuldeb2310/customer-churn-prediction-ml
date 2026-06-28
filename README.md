@@ -27,6 +27,6 @@ Accuracy: 80.53%
 F1-score: 0.61
 
 Repository Contents
-  > Project Report
-  > Jupyter Notebook
-  > Dataset
+  •Project Report
+  •Jupyter Notebook
+  •Dataset
