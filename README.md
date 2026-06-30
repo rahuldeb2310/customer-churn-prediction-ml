@@ -39,7 +39,7 @@ Develop a machine learning pipeline to predict telecom customer churn using cust
 
 ## Repository Contents
 
--  `Customer_Churn_Prediction.ipynb` — Complete notebook
+-  `Customer_Churn_Prediction_project_code_.ipynb` — Complete notebook
 -  `Customer_Churn_Prediction_Project_Report.pdf` — Project report
 -  `telecom_churn.csv` — Dataset
 
